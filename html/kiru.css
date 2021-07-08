@@ -4,6 +4,7 @@
 	height: 25%;
 	font-size: 48px;
 	/* background-color: green; */
+	font-family: AGK;
 }
 
 #contact{
@@ -12,4 +13,10 @@
 	background-color: red;
 	float: right; 
 	font-size: 24px;
+}
+
+/* https://www.dafont.com/es/ */
+@font-face {
+  font-family: AGK;
+  src: url(fonts/astralgroove/AstralGroove.ttf);
 }
