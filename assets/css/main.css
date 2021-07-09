@@ -532,16 +532,7 @@ ustify-content:center;
 .btn-background{left:0}
 .intro--banner button:focus{outline:none}
 .intro--banner button svg{position:relative;left:5px;width:15px;fill:#fff}
-.intro--banner img{position:absolute;bottom:21px;left:20px 
-.resize {
-    width: 400px;
-    height: auto;
-}
-
-.resize {
-    width: 300px;
-    height: auto;
-}}
+.intro--banner img{position:absolute;bottom:21px;left:20px}
 
 .intro--options
 	{display:-webkit-box;
@@ -565,7 +556,7 @@ ustify-content:center;
 .intro--options h3{font-size:16px;text-transform:uppercase}
 .intro--options p{margin-bottom:0}
 
-@media (max-width: 900px)
+@media (max-width: 600px)
 
 {.intro--banner{height:380px}
 	.intro--banner h1{font-size:55px}
@@ -573,7 +564,7 @@ ustify-content:center;
 	.intro--options>a{margin-right:30px}
 	.intro--options>a:last-child{margin-right:0}}
 	
-@media (max-width: 767px)
+@media (max-width: 600px)
 	{.intro--banner{height:305px}
 	.intro--banner h1{font-size:44px}
 	.intro--banner img{width:330px}
