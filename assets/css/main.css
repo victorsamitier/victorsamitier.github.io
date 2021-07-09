@@ -532,7 +532,16 @@ ustify-content:center;
 .btn-background{left:0}
 .intro--banner button:focus{outline:none}
 .intro--banner button svg{position:relative;left:5px;width:15px;fill:#fff}
-.intro--banner img{position:absolute;bottom:21px;left:20px}
+.intro--banner img{position:absolute;bottom:21px;left:20px 
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}}
 
 .intro--options
 	{display:-webkit-box;
