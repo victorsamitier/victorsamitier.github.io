@@ -569,7 +569,7 @@ ustify-content:center;
 	.intro--banner h1{font-size:44px}
 	.intro--banner img{width:330px}
 	.intro--options{display:block}
-	.intro--options>a{display:block;max-width:100%;margin:0 0 30px 0}
+	.intro--options>a{display:block;max-width:75%;margin:0 0 30px 0}
 	.intro--options>a:last-child{margin-bottom:0}}
 	
 @media (max-width: 600px)
